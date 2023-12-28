@@ -23,5 +23,4 @@ Some articles and reference blogs about the problem statement
 4. Probability of a data-point belonging to each class is needed.
 <br>
 
-#### Acknowledgements
-Applied Ai Course
+
